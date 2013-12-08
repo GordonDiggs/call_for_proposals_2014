@@ -15,7 +15,7 @@ I will talk about tools that we use to keep our code in check at Paperless Post,
 
 Gordon is a dev lead at [Paperless Post](http://www.paperlesspost.com), where he manages a team of developers and is also a feature developer. He lives and works in NYC. When he is not coding, he can usually be found in the nearest record store, digging through records.
 
-![Profile picture](https://www.dropbox.com/s/dmb0mvxff7t61i0/couch.jpg)
+![Profile picture](https://photos-6.dropbox.com/t/0/AAB1utI8H0d26TxajaxTsuYpuDDrTEKZSZnpx-sZjs3xTw/12/114112/jpeg/1024x768/3/1386532800/0/2/couch.jpg/eRNW-_mRGGWXajud98Fsmd29V9o3mpw4LrFc6TxA0nw)
 
 - [My website](http://www.gordondiggs.com)
 - [My twitter](https://twitter.com/gordondiggs)
